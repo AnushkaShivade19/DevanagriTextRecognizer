@@ -2,9 +2,9 @@
 This is a OpenCv project with help of c++. It recognizes the devanagri characters
 
 Code Files
-1. main.cpp ( Not to be edited)
-2. recognizer.cpp ( You will have to code in this)
-3. recognizer.h ( You will have to code in this)
+1. main.cpp 
+2. recognizer.cpp 
+3. recognizer.h 
 Dataset Folder
 Devanagari-Dataset
 It contains two folders :
