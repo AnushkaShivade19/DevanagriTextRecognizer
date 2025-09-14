@@ -1,0 +1,10 @@
+^D:\GITHUBPROJECT\DEVANAGRITEXTRECOGNIZER\BUILD\CMAKEFILES\B55AC817A4B9B2753A65677ECA1F7DAF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GitHubProject/DevanagriTextRecognizer -BD:/GitHubProject/DevanagriTextRecognizer/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitHubProject/DevanagriTextRecognizer/build/DevanagriTextRecognizer.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,3 @@
+D:/GitHubProject/DevanagriTextRecognizer/build/CMakeFiles/DevanagriTextRecognizer.dir
+D:/GitHubProject/DevanagriTextRecognizer/build/CMakeFiles/ALL_BUILD.dir
+D:/GitHubProject/DevanagriTextRecognizer/build/CMakeFiles/ZERO_CHECK.dir
